@@ -118,7 +118,7 @@ nav a {
 	background: #DBFFFF;
 }
 .navbar-custom.top-nav-collapse {
-	background: #5C5C3D;
+	background: #5C8A8A;
 }
 
 h3 {
@@ -239,16 +239,16 @@ width: 100%;
 
 @media(min-width:768px) {
 	.navbar-custom.top-nav-collapse {
-		background: #5C5C3D;
+		background: #5C8A8A;
 	}
 
 }
 @media(max-width: 768px) {
 	.navbar-custom.top-nav-collpase {
-		background: #5C5C3D;
+		background: #5C8A8A;
 	}
 	.navbar-custom {
-		background: #5C5C3D;
+		background: #5C8A8A;
 	}
 }
 @media (max-width: 580px) {
@@ -281,16 +281,16 @@ width: 100%;
 }
 @media (min-width: 580px) {
 	#iconmobile {
-		display: none;
+		display: none; 
 	}
 }
 #iconmobile, #btn {
 	margin-left: auto;
-	margin-right: auto;
+	margin-right: auto; 
     text-align: center;
     padding: 5px;
 
 }
 #bookinglink:hover {
-	color: #5C5C3D;
+	color: #5C8A8A;
 }
