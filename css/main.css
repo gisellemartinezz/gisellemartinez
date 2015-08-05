@@ -285,8 +285,9 @@ width: 100%;
 	}
 }
 #iconmobile, #btn {
-	margin: auto;
-    width: 15%;
+	margin-left: auto;
+	margin-right: auto;
+    text-align: center;
     padding: 5px;
 
 }
